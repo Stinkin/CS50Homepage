@@ -1,0 +1,24 @@
+HTML TAGS:
+<p>
+<h1>
+<h2>
+<ul>
+<li>
+<div>
+<script>
+<a>
+<button>
+<strong>
+<img>
+<meta>
+<code>
+<br>
+
+CSS PROPERTIES:
+text-align
+font-style
+font-family
+border-radius
+list-style-type
+text-transform
+text-shadow
